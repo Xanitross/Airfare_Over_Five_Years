@@ -2,7 +2,7 @@
 Data Analysis 1 Project
 
 ## Description:
-The goal of this project is to analysis the cost of airfare, specifically over the last 5 years, in order to see what effect the COVID-19 Pandemic has had on the cost of air travel. Air travel is one of the more common forms of transport, with 38% of adults traveling by air in 2021 (Gallup, Dec. 2021) while also being one of the more expensive methods. By looking at the trends in cost over time we hope to discover what impact 2020 had on air travel prices and what we might expect to see in the future.
+The goal of this project is to analyse the cost of airfare, specifically over the last 5 years, in order to see what effect the COVID-19 Pandemic has had on the cost of air travel. Air travel is one of the more common forms of transport, with 38% of adults traveling by air in 2021 (Gallup, Dec. 2021) while also being one of the more expensive methods. By looking at the trends in cost over time we hope to discover what impact 2020 had on air travel prices and what we might expect to see in the future.
 
 ## Packages Needed:
 - The Required packages can be found in the Requirements.txt file
